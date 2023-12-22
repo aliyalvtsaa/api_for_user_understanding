@@ -1,0 +1,9 @@
+pydantic
+langchain
+python-dotenv
+flask
+openai
+fastapi
+uvicorn
+requests
+pydantic==1.7.4
