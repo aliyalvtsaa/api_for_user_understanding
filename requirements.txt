@@ -1,9 +1,10 @@
-pydantic
 langchain
 python-dotenv
 flask
 openai
-fastapi
+fastapi==0.45.0
 uvicorn
 requests
 pydantic==1.7.4
+
+
